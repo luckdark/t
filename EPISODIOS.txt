@@ -1,4 +1,3 @@
-<channels></channels>
 <name> - [COLOR white]Vikings - 1ª Temporada[/COLOR]</name>
 <link>magnet:?xt=urn:btih:260130A23AA1077BD1268114F14475097308CF99&amp;dn=Vikings%202013%201%c2%aa%20Temporada%20Completa%20WWW.BLUDV.COM&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
 <thumbnail>https://viatorrents.com/capas/vikings-1-temporada-versao-estendida-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
