@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>Vikings</name>
-<link>https://raw.githubusercontent.com/luckdark/t/master/EPISODIOS.txt</link>
+<externallink>https://raw.githubusercontent.com/luckdark/t/master/EPISODIOS.txt</externallink>
 <thumbnail>https://viatorrents.com/capas/vikings-6-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://viatorrents.com/capas/vikings-6-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sexta temporada com todos os episódios lançados da série que foi renovada pelo canal History. O drama retorna com sua sexta e última temporada. Ragnar Lothbrok (Travis Fimmel) é o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings. Além de guerreiro implacável, Ragnar segue as tradições nórdicas e é devoto dos deuses. As lendas contam que ele descende diretamente de Odin, o deus da guerra.</info><info2>Título Original: Vikings
