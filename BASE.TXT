@@ -1,0 +1,39 @@
+﻿<channels>
+<channel>
+<name>Agents of S.H.I.E.L.D. S06</name>
+<thumbnail>https://ondeeubaixo.com.br/capa/agentes-da-shield-6-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<link>magnet:?xt=urn:btih:B6902FB801BBC959B199DA65F1D1C2C7089EFAA0&dn=hidratorrent.com%20-%20agents-of-shield-s06&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>https://drive.google.com/open?id=1XIHJsWdyKm-nETqCaNQRNp0jpuuO2OWX</link>
+<fanart>https://ondeeubaixo.com.br/capa/agentes-da-shield-6-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - Lançamento: 2019
+Duração: 45 Min
+Gênero: Ação / Aventura / Drama / Ficção / Suspense
+Idioma / Áudio: Dublado / Inglês / Português
+Nacionalidade: EUA
+Legendas: Português
+Informação: Completa
+Produtora: Marvel Studios
+Franquia: Agentes da S.H.I.E.L.D. / Agentes da Shield
+Crítica Especializada:  7.5  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
